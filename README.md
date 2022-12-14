@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/龔嵩雄" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="龔嵩雄" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%E5%B5%A9%E9%9B%84-%E9%BE%94-798761240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="龔嵩雄" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nightsea324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nightsea324" height="30" width="40" /></a>
 </p>
 
