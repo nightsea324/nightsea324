@@ -15,17 +15,20 @@
 
 - ✉️ How to reach me **songxiong.gong@gmail.com**
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightsea324&theme=discord&row=1&column=6&no-bg=true&no-frame=true" alt="trophy" /></a>
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nightsea324&theme=github-dark-blue&hide_border=true" alt="streak.gif" />
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightsea324&theme=discord&row=1&column=6" alt="trophy" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nightsea324&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nightsea324&show_icons=true&locale=en&theme=github_dark" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nightsea324&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="most-languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nightsea324&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" alt="most-languages" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
