@@ -20,7 +20,13 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nightsea324&theme=github-dark-blue&hide_border=true" alt="streak.gif" />
+  <picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=nightsea324&theme=github-light&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+    <img src="https://streak-stats.demolab.com?user=nightsea324&theme=github-dark-blue&hide_border=true" alt="streak.gif" />
+  </picture>
 </p>
 
 <p align="center">
