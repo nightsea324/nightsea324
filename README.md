@@ -16,7 +16,16 @@
 - ✉️ How to reach me **songxiong.gong@gmail.com**
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightsea324&theme=discord&row=1&column=6&no-bg=true&no-frame=true" alt="trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+</p>
+<p align="center">
+  <picture>
+  <source 
+    srcset="https://github-profile-trophy.vercel.app/?username=nightsea324&theme=flat&row=1&column=6&no-bg=true&no-frame=true"
+    media="(prefers-color-scheme: light)"
+  />
+    <img src="https://github-profile-trophy.vercel.app/?username=nightsea324&theme=discord&row=1&column=6&no-bg=true&no-frame=true" alt="trophy" />
+  </picture>
 </p>
 
 <p align="center">
@@ -30,11 +39,23 @@
 </p>
 
 <p align="center">
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=nightsea324&show_icons=true&locale=en&layout=compact&theme=default&bg_color=00000000&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
   <img src="https://github-readme-stats.vercel.app/api?username=nightsea324&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" alt="stats" />
+  </picture>
 </p>
 
 <p align="center">
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nightsea324&show_icons=true&locale=en&layout=compact&theme=default&bg_color=00000000&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nightsea324&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" alt="most-languages" />
+  </picture>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
